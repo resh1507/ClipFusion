@@ -7,10 +7,15 @@ ClipFusion is a web application that allows users to take timestamped notes whil
 FEATURES
 
   1.Auto-capture video timestamps while taking notes.
+  
   2.Add, edit and delete notes seamlessly.
+  
   3.Clickable timestamps that seek the video in-app.
+  
   4.Export notes as downloadable PDFs.
+  
   5.User authentication (Login, Register, Forgot Password).
+  
   6.Video thumbnail and YouTube link included in saved PDFs.
 
 TECH STACK
